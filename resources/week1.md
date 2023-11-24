@@ -23,8 +23,7 @@ Linjära ekvationssystem
 
 - [Bråkräkning](http://wiki.math.se/wikis/forberedandematte1/index.php/1.2_Br%C3%A5kr%C3%A4kning)
 
-1.1-1.4
-- [Linear equation systems](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/01%3A_Systems_of_Equations)
+- [Linear equation systems](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/01%3A_Systems_of_Equations)Chapter 1.1-1.4
 - [Linear equation systems 2](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec1-linear-equation-systems)
 
 ## Exercises :running:
