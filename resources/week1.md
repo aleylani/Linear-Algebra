@@ -7,7 +7,7 @@
 
 Bråktal
 
-- [Elementära operationer] (https://www.youtube.com/watch?v=e30CHWA1m7A)
+- [Elementära operationer](https://www.youtube.com/watch?v=e30CHWA1m7A)
 
 
 Linjära ekvationssystem
