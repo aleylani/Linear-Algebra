@@ -28,10 +28,5 @@ Linjära ekvationssystem
 
 ## Exercises :running:
 
-These are a few recommended exercises, feel free to do more for extra training.
-
-| Section             | Exercise                                                    | Reading |
-| ------------------- | ----------------------------------------------------------- | ------- |
-| 1. Linj. ekv.system | 1.1, 1.2, 1.4, 1.6, 1.8, 1.11, 1.13, 1.15, 1.17, 1.22, 1.27 | 1-13    |
-| 2. Vektorer         | 2.1-2.6, 2.8-2.10, 2.13-2.15, 2.17-2.20                     | 17-37   |
+TBD
 
