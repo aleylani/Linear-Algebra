@@ -7,7 +7,7 @@
 
 Bråktal
 
-- [Addition, subtraktion, multiplikation & division med bråk] (https://www.youtube.com/watch?v=e30CHWA1m7A)
+- [Elementära operationer] (https://www.youtube.com/watch?v=e30CHWA1m7A)
 
 
 Linjära ekvationssystem
@@ -21,10 +21,10 @@ Linjära ekvationssystem
 
 ## theory :book:
 
-- [Bråkräkning](http://wiki.math.se/wikis/forberedandematte1/index.php/1.2_Br%C3%A5kr%C3%A4kning)
+- [Bråktal](http://wiki.math.se/wikis/forberedandematte1/index.php/1.2_Br%C3%A5kr%C3%A4kning)
 
-- [Linear equation systems](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/01%3A_Systems_of_Equations)Chapter 1.1-1.4
-- [Linear equation systems 2](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec1-linear-equation-systems)
+- [Linjära ekvationssystem 1](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/01%3A_Systems_of_Equations) Chapter 1.1-1.4
+- [Linjära ekvationssystem 2](https://math.libretexts.org/Bookshelves/Linear_Algebra/Interactive_Linear_Algebra_(Margalit_and_Rabinoff)/01%3A_Systems_of_Linear_Equations-_Algebra) Chapter 1.1-1.2
 
 ## Exercises :running:
 
