@@ -19,18 +19,19 @@ Linjära ekvationssystem
 
 
 
-## theory :book:
+## Theory :book:
 
 - [Bråktal](http://wiki.math.se/wikis/forberedandematte1/index.php/1.2_Br%C3%A5kr%C3%A4kning)
 
 - [Linjära ekvationssystem 1](https://math.libretexts.org/Bookshelves/Linear_Algebra/A_First_Course_in_Linear_Algebra_(Kuttler)/01%3A_Systems_of_Equations) Chapter 1.1-1.4
 - [Linjära ekvationssystem 2](https://math.libretexts.org/Bookshelves/Linear_Algebra/Interactive_Linear_Algebra_(Margalit_and_Rabinoff)/01%3A_Systems_of_Linear_Equations-_Algebra) Chapter 1.1-1.2
 
-## Exercises :running:
+## Exercises & solutions :running:
 
 - [Linjära ekvationssystem - grunder 2 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables) 1, 6-10
 - [Linjära ekvationssystem - grunder 3 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 1, 6-10
 - [Linjära ekvationssystem - gausseliminering](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 6-46, 47-51*
+
 
 
 - [Lösningar - samtliga uppgifter](https://openstax.org/books/college-algebra-2e/pages/chapter-7)
