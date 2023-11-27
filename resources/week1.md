@@ -30,7 +30,7 @@ Linjära ekvationssystem
 
 - [Linjära ekvationssystem - grunder 2 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables) 1, 6-10
 - [Linjära ekvationssystem - grunder 3 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 1, 6-10
-- [Linjära ekvationssystem - gausselimination](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 6-46, 47-51*
+- [Linjära ekvationssystem - gausseliminering](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 6-46, 47-51*
 
 
 - [Lösningar - samtliga uppgifter](https://openstax.org/books/college-algebra-2e/pages/chapter-7)
