@@ -28,12 +28,16 @@ Linjära ekvationssystem
 
 ## Exercises & solutions :running:
 
+- [Linjära ekvationssystem - uppgifter samt facit](https://github.com/aleylani/Linear-Algebra/blob/main/exercises/linj%C3%A4ra%20ekvationssystem%20-%20%C3%B6vningsuppgifter%20och%20svar.pdf)
+
+## More challangeing exercises & solutions
+
 - [Linjära ekvationssystem - grunder 2 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-1-systems-of-linear-equations-two-variables) 1, 6-10
 - [Linjära ekvationssystem - grunder 3 dimensioner](https://openstax.org/books/college-algebra-2e/pages/7-2-systems-of-linear-equations-three-variables) 1, 6-10
 - [Linjära ekvationssystem - gausseliminering](https://openstax.org/books/college-algebra-2e/pages/7-6-solving-systems-with-gaussian-elimination) 6-46, 47-51*
 
 
 
-- [Lösningar - samtliga uppgifter](https://openstax.org/books/college-algebra-2e/pages/chapter-7)
+- [Facit för udda uppgifter- openstax](https://openstax.org/books/college-algebra-2e/pages/chapter-7)
 
 
