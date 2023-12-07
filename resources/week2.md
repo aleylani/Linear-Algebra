@@ -13,6 +13,8 @@ Vektorer
 - [Introduktion till ortsvektorer](https://www.youtube.com/watch?v=MHbXnN1f9AE&t=481s)
 - [Mittpunktsformen](https://www.youtube.com/watch?v=r-7dN9DRagc)
 - [Linjer på parameterform](https://www.youtube.com/watch?v=XFyuXgQp6fM)
+- [Skalärprodukt](https://www.youtube.com/watch?v=Vb_3PAYn9bY&list=PL2w8yt28pgXrYD4BeDz12t0nWZVUY62-E&index=5)
+- [Skalärprodukt forts - vinklar](https://www.youtube.com/watch?v=wr_dojG7YOk&list=PL2w8yt28pgXrYD4BeDz12t0nWZVUY62-E&index=7)
 
 ## Lecture notes :book:
 
@@ -20,4 +22,4 @@ Vektorer
 
 ## Exercises :running:
 
-
+- [Illustrerad vektor addition/subtraktion](https://ophysics.com/k3b.html)
