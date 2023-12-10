@@ -18,3 +18,6 @@ Matriser
 
 ## Exercises :running:
 
+- [Matrisoperationer 2x2](https://github.com/aleylani/Linear-Algebra/blob/main/exercises/matrisoperationer%202x2.pdf)
+- [Matrisoperationer 3x3](https://github.com/aleylani/Linear-Algebra/blob/main/exercises/matrisoperationer%203x3.pdf)
+- [Matrisoperationer transponat](https://github.com/aleylani/Linear-Algebra/blob/main/exercises/matrisoperationer%20transponat.pdf)
