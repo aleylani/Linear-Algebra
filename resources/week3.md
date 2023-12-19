@@ -10,6 +10,8 @@ Matriser
 - [Matrismultiplikation](https://www.youtube.com/watch?v=wHUm-2TukPc)
 - [Transponat och symmetrisk](https://www.youtube.com/watch?v=bhzvIpICSZ0)
 - [Koppling matriser och linjära ekvationssystem](https://www.youtube.com/watch?v=AAaqJbY0JmI)
+- [Inversen till en 2x2 matris](https://www.youtube.com/watch?v=azzE2yl1gb4)
+- [Inversen till en 3x3 matris](https://www.youtube.com/watch?v=Fg7_mv3izR0)
 
 
 ## Lecture notes :book:
